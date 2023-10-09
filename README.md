@@ -1,4 +1,4 @@
-# MERN Ecommerce
+# Shopping Sites with Mern Stack
 
 ## Description
 
@@ -73,9 +73,6 @@ $ npm start
 - [Mongoose](https://mongoosejs.com/)
 
 - [React](https://reactjs.org/)
-
-- [Webpack](https://webpack.js.org/)
-
 
 ### Code Formatter
 
